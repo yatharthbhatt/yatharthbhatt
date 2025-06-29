@@ -28,42 +28,42 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="90" /></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="90" /></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="90" /></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="90" /></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="https://github.com/user-attachments/assets/a2029ce0-ecd1-4227-a170-0a959df6fafc" width="48" /></td>
+    <td><img src="https://github.com/user-attachments/assets/a2029ce0-ecd1-4227-a170-0a959df6fafc" width="90" /></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="90" /></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="90" /></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="90" /></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="https://github.com/user-attachments/assets/d525e61e-4250-4a66-b971-60367f66bf6c" width="48" /></td>
+    <td><img src="https://github.com/user-attachments/assets/f0213e21-1847-44b9-87fa-374557bde699" width="100" /></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="90" /></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" width="48" /></td>
+ <td><img src="https://github.com/user-attachments/assets/73e8aff7-529b-4ffb-b4fb-3dad1b4a8873" width="95" /></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="90" /></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="90" /></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="48" /></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="90" /></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="90" /></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="90" /></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="https://cryptologos.cc/logos/web3-js-logo.svg?v=025" width="48" /></td>
+   <td><img src= "https://github.com/user-attachments/assets/a7debd39-076b-41ae-bff7-14628ff344ff" width="90" /></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="https://cryptologos.cc/logos/solidity-eth-logo.svg?v=025" width="48" /></td>
+   <td><img src="https://github.com/user-attachments/assets/b302517f-d2d5-409b-9951-6d281d10f185" width="90" /></td> 
   </tr>
 </table>
 
