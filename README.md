@@ -2,8 +2,8 @@
 <h3 align="center">💻 Full-Stack Explorer | Computer Science Student | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/yatharth?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/yatharth?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/yatharthbhatt?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/yatharthbhatt?style=social" alt="GitHub Stars" />
 </p>
 
 <p align="center">
